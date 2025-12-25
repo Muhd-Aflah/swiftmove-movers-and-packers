@@ -2,8 +2,7 @@
 
 ## 📌 Project Status: **In Development**
 
-> ⚠️ This project is currently under active development.  
-> Features are being implemented step by step.
+> ⚠️ This project is currently under active development.Features are being implemented step by step.
 
 ---
 
@@ -126,5 +125,6 @@ This README will be updated as the project progresses. Stay tuned for more featu
 ---
 
 *Last Updated: December 26, 2025*
+
 
 
