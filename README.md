@@ -114,30 +114,10 @@ All APIs are tested using **Postman**.
 
 ---
 
-## ✅ Week‑2 Completion Summary
-
-- ✔ Backend routing with Express
-- ✔ MongoDB database integration
-- ✔ Authentication using JWT
-- ✔ Role‑based authorization (Admin/User)
-- ✔ Middleware protection
-- ✔ API testing with Postman
-
----
-
-## 🧠 Future Enhancements
-
-- Payment integration
-- Admin dashboard APIs
-- Service provider management
-- Order tracking system
-- Frontend integration
-
----
-
 ## 👨‍💻 Author
 
 **Muhammed Aflah A**  
 Full Stack Developer
+
 
 
