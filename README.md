@@ -119,5 +119,12 @@ All APIs are tested using **Postman**.
 **Muhammed Aflah A**  
 Full Stack Developer
 
+## 📝 Notes
+
+This README will be updated as the project progresses. Stay tuned for more features!
+
+---
+
+*Last Updated: December 26, 2025*
 
 
